@@ -1,0 +1,89 @@
+[33mcommit 28dffb0626f1cd1ded71ad8aea1db4560c0ae60f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 326355a 736c5e7
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Fri Jan 9 15:54:41 2026 +0200
+
+    Merge pull request #4 from alexa-qa/Second_training
+    
+    New branch commit
+
+[33mcommit 736c5e717c1c9b0918969bde93741a43e93e355f[m[33m ([m[1;31morigin/Second_training[m[33m)[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Fri Jan 9 15:37:39 2026 +0200
+
+    New branch commit
+
+[33mcommit 326355af21f562c9c176d9a8087aa221416da537[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Fri Jan 9 13:10:14 2026 +0200
+
+    Goining to revert that
+
+[33mcommit f513ea659165b1512d9af6960ad9fac1852aa197[m
+Merge: 7ac9a23 9e624a7
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 20:00:32 2025 +0200
+
+    Merge pull request #3 from alexa-qa/2b
+    
+    third line added to training.txt
+
+[33mcommit 9e624a7667c9f570df3ec324ef1fad56bf365639[m[33m ([m[1;31morigin/2b[m[33m)[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 19:57:24 2025 +0200
+
+    third line added to training.txt
+
+[33mcommit 7ac9a23810b7d072e398fe239eee022a5974d2fa[m
+Merge: 266b033 f4670f3
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 15:13:36 2025 +0200
+
+    Merge pull request #2 from alexa-qa/2b
+    
+    added second line into training.txt
+
+[33mcommit f4670f392c6029928c9ae7235c1a2215c120f669[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 15:04:43 2025 +0200
+
+    added second line into training.txt
+
+[33mcommit 266b033d5783cfbee57bb0ba5d04fe7b5f1a925b[m
+Merge: 9708dfd 021c75c
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 15:03:20 2025 +0200
+
+    Merge pull request #1 from alexa-qa/2b
+    
+    adding training.txt
+
+[33mcommit 021c75c15be90d86085b00dab93f519991aac9c6[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 14:58:51 2025 +0200
+
+    adding training
+
+[33mcommit 9708dfd83155fa547ebd5d6c2528b5c53512ddcd[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Tue Jan 7 14:52:50 2025 +0200
+
+    first line added
+
+[33mcommit 3c747f7141c55209805b53d520451d7e62a4ec3a[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Mon Jan 6 17:30:16 2025 +0200
+
+    adding First_test.py file
+
+[33mcommit 50228afce21e527683efe4bd8a51d920b47d122f[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Mon Jan 6 17:23:53 2025 +0200
+
+    adding .gitignore file
+
+[33mcommit 220732edd8f3ad942965132cc3f7040408548800[m
+Author: alexa-qa <156538265+alexa-qa@users.noreply.github.com>
+Date:   Mon Jan 6 17:15:17 2025 +0200
+
+    Initial commit
