@@ -1,1 +1,1 @@
-print ("Python test!")
+print ("Python test")
